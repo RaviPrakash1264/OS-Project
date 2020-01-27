@@ -5,4 +5,4 @@ goal of a thread subsystem is to provide applications that want to use threads a
 set of library functions (an interface) that the application can use to create and
 start new threads, terminate threads, or manipulate threads in different ways.
 We will implement a cooperative User Level Thread (ULT) library for Linux
-that can replace the default PThreads library
+that can replace the default PThreads library.
